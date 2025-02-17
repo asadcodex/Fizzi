@@ -26,7 +26,7 @@ Welcome to Fizzi - where web development meets refreshing innovation! This proje
 
 ## 🌟 Live Demo
 
-Experience Fizzi in action: [https://fizzi-demo.vercel.app](https://fizzi-demo.vercel.app)
+Experience Fizzi in action: [https://fizzicodex.vercel.app/](https://fizzicodex.vercel.app/)
 
 
 ## 📝 Project Structure
