@@ -68,10 +68,6 @@ The site is fully responsive with carefully crafted breakpoints:
 - Tablet: 768px - 1023px
 - Desktop: 1024px and above
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ## 🙏 Acknowledgments
 
 Special thanks to:
